@@ -1693,6 +1693,7 @@ transform: translateY(55px);
 	clear: both;
 	float: left;
 	padding: 140px 0px 140px 0px;
+	display: none;
 }
 .kura_tm_news .news_list{
 	width: 100%;
@@ -1929,6 +1930,7 @@ transform: translateY(55px);
 	height: auto;
 	clear: both;
 	float: left;
+	display: none;
 }
 .kura_tm_contact .fields .first{
 	width: 100%;
@@ -2203,6 +2205,7 @@ transform: translateY(55px);
 	}
 	body.opened .kura_tm_hero .down{
 		bottom: 50%;
+		top: 655;
 	}
 	.kura_tm_pricing .pricing_inner{flex-direction: column;}
 	.kura_tm_pricing .left{width: 100%;padding-right: 0px;}
