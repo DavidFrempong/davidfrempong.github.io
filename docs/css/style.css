@@ -2206,7 +2206,7 @@ transform: translateY(55px);
 	}
 	body.opened .kura_tm_hero .down{
 		bottom: 50%;
-		top: 655;
+		top: 65%;
 	}
 	.kura_tm_pricing .pricing_inner{flex-direction: column;}
 	.kura_tm_pricing .left{width: 100%;padding-right: 0px;}
