@@ -1531,6 +1531,7 @@ transform: translateY(55px);
 	clear: both;
 	float: left;
 	padding: 140px 0px 113px 0px;
+	display: none;
 }
 
 .kura_tm_timeline .timeline_list ul li .list_inner{
